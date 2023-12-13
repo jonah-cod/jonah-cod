@@ -6,18 +6,6 @@
 ### <div align="center">I'm Jonathan, a full-time full-stack Web-developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Real Estate management Website  
-  
-
-- 🌱 I’m currently learning Angular  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: Google rents out goats.  
-  
-
 <br/>  
 
 
